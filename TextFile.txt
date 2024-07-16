@@ -1,0 +1,4 @@
+This is a sample document. It contains multiple sentences.
+Each sentence should be split individually.
+
+For example, this is a new paragraph with another sentence.
